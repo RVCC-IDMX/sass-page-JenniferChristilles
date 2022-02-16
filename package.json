@@ -1,0 +1,20 @@
+{
+  "name": "sass-page-jenniferchristilles",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RVCC-IDMX/sass-page-JenniferChristilles.git"
+  },
+  "keywords": [],
+  "author": "Jennifer Christilles <jenniferchristilles@gmail.com> (https://github.com/JenniferChristilles)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RVCC-IDMX/sass-page-JenniferChristilles/issues"
+  },
+  "homepage": "https://github.com/RVCC-IDMX/sass-page-JenniferChristilles#readme"
+}
